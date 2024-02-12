@@ -14,7 +14,7 @@ To complete this project I used [Zhang's](https://github.com/richzhang/colorizat
 
 
 ## Usage 
-First clone the repository (Note: It will take some time because the repo contain the pretrained model)
+First clone the repository (**Note** it will take some time because the repo contain the pretrained model)
 
 ```bash
 git clone https://github.com/OmarAzizi/Chroma-AI.git && cd Chroma-AI
@@ -25,3 +25,5 @@ Then run the script an give it the path to the image you want to color
 ```bash
 python3 main.py --image <image_path>
 ```
+
+Then to exit you can press any key.
