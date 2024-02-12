@@ -20,7 +20,7 @@ First clone the repository (**Note** this will take some time because the repo c
 git clone https://github.com/OmarAzizi/Chroma-AI.git && cd Chroma-AI
 ```
 
-Then run the script an give it the path to the image you want to color
+Then run the script and give it the path to your image
 
 ```bash
 python3 main.py --image <image_path>
