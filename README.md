@@ -14,7 +14,7 @@ Chroma AI turns your lifeless Black and White images to lively colored ones. To 
 
 
 ## Usage 
-First clone the repository (**Note** this will take some time because the repo contain the pretrained model)
+First clone the repository (**Note** this will take some time because the repo contains the pretrained model)
 
 ```bash
 git clone https://github.com/OmarAzizi/Chroma-AI.git && cd Chroma-AI
