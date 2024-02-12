@@ -27,3 +27,7 @@ python3 main.py --image <image_path>
 ```
 
 Then to exit you can press any key.
+
+### Copyright Notice
+Copyright (c) 2016, Richard Zhang, Phillip Isola, Alexei A. Efros
+All rights reserved.
