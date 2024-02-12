@@ -4,7 +4,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## About
-Chroma AI turns your lifeless Black and White images to lively colored ones. To complete this project I used [Zhang's](https://github.com/richzhang/colorization) pre-trined model along with OpenCV.
+Chroma AI turns your lifeless Black and White images to lively colored ones. To complete this project I used [Zhang's](https://github.com/richzhang/colorization) pretrained model along with OpenCV.
 
 ## Examples
 ![Screenshot from 2024-02-12 17-05-15](https://github.com/OmarAzizi/Chroma-AI/assets/110500643/234bf00a-3bef-416f-947a-cce74c62ffbb)
