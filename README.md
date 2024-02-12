@@ -6,6 +6,13 @@
 ## About
 To complete this project I used [Zhang's](https://github.com/richzhang/colorization) pre-trined model along with OpenCV.
 
+## Examples
+![Screenshot from 2024-02-12 17-05-15](https://github.com/OmarAzizi/Chroma-AI/assets/110500643/234bf00a-3bef-416f-947a-cce74c62ffbb)
+
+
+![Screenshot from 2024-02-12 17-07-54](https://github.com/OmarAzizi/Chroma-AI/assets/110500643/455bc679-aab0-4dc1-8474-0adf8589e147)
+
+
 ## Usage 
 First clone the repository and enter it
 
