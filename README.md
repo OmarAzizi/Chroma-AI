@@ -3,7 +3,6 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
-## About
 Chroma AI turns your lifeless Black and White images to lively colored ones. To complete this project I used [Zhang's](https://github.com/richzhang/colorization) pretrained model along with OpenCV.
 
 ## Examples
